@@ -4,8 +4,7 @@ Serial_K2000
 To drive at least the 2 motors of the little electric car of the lab, using the Arduino libraries.
 
 Wiring:
-~~~~~~~
-
+-------
 The motors should be connected to a H-Bridge L298N.
 The documentation for it can be found at this adress:
 www.ghamon.fr/Downloads/L298NPCBdatasheet.pdf‎
