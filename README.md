@@ -24,6 +24,7 @@ Serial communication:
 -------------------
 Example code to pass parameters over the serial port can be found here:
 http://arduino.cc/en/Tutorial/ReadASCIIString
+http://arduino.cc/en/Tutorial/ReadASCIIString?action=sourceblock&num=1
 
 Hopefully this example is illustrated with PWM. 
 
