@@ -27,7 +27,8 @@ http://arduino.cc/en/Tutorial/ReadASCIIString
 
 Hopefully this example is illustrated with PWM. 
 
-On the L298N datasheet:: 
+On the L298N datasheet::
+
     Pins used for the PWM are DIGITAL 9, 10.
     Pins used for the MOTOR DIRECTION are DIGITAL 2, 3, 4, 5.
     
